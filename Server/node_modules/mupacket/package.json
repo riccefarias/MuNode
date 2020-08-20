@@ -1,0 +1,59 @@
+{
+  "name": "mupacket",
+  "version": "0.0.1",
+  "description": "MuOnline packet encode/decoder for client/server side (old encryption)",
+  "homepage": "https://github.com/WoLfulus/node-mupacket",
+  "license": "MIT",
+  "keywords": [
+    "mu",
+    "muonline",
+    "packet",
+    "encdec",
+    "encryption",
+    "decryption",
+    "encrypt",
+    "decrypt",
+    "protocol"
+  ],
+  "author": {
+    "name": "João Francisco Biondo Trinca",
+    "email": "wolfulus@gmail.com"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoLfulus/node-mupacket.git"
+  },
+  "engines": {
+    "node": ">= 0.6.14"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "gitHead": "e9a161396068bbf343a0daa13b7f25c0666de352",
+  "bugs": {
+    "url": "https://github.com/WoLfulus/node-mupacket/issues"
+  },
+  "_id": "mupacket@0.0.1",
+  "_shasum": "cd6430f3525a16f8142510a56e7541966167be3b",
+  "_from": "mupacket@",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "wolfulus",
+    "email": "wolfulus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "wolfulus",
+      "email": "wolfulus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "cd6430f3525a16f8142510a56e7541966167be3b",
+    "tarball": "https://registry.npmjs.org/mupacket/-/mupacket-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/mupacket/-/mupacket-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

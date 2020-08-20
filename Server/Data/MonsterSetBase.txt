@@ -1,0 +1,35 @@
+0
+247	0	0	146	129	2	// NPC Reset Guard
+258	0	0	149	129	2	// NPC Quest Leo
+375	0	0	130	138	3	// chaos card
+226	0	0	122	110	3	// Trainer
+230	0	0	62	130	3	// Alex
+236	0	0	175	120	3	// Golden Archer
+240	0	0	146	110	3	// Baz, Storage Guard
+240	0	0	147	145	1	// Baz, Storage Guard
+250	0	0	113	120	3	// Florence Peddler
+249	0	10	131	88	1	// Berdysh Guard
+249	0	20	173	125	3	// Berdysh Guard
+249	0	20	94	125	7	// Berdysh Guard
+249	0	20	94	130	7	// Berdysh Guard
+249	0	30	131	148	1	// Berdysh Guard
+248	0	0	183	137	2	// Harold, Wandering 
+251	0	0	116	141	3	// Hanzo, Blacksmith
+253	0	0	127	86	2	// Amy, Potion Girl
+254	0	0	118	113	3	// Pasi, Wizard
+255	0	0	123	135	1	// Liaman, Barmaid 
+257	0	0	130	128	3	// Elf Soldier
+249	0	0	114	130	3	// Crosbow Guard
+end
+
+//=========================================================================================									
+//================================= Lorencia Mobs - ==================================									
+//=========================================================================================									
+//Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant  Name
+	
+1									
+2	0  	5  	182  	125	187	130	-1	4	//Budge Dragon
+3	0	30	180	125	190	130	-1	4	//Spider
+4	0	30	175	130	185	140	-1	4	//Elite Bull Fighter
+end
+

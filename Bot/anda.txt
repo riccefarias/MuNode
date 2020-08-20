@@ -1,0 +1,112 @@
+Connected
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer f1 00 01 14 dd 30 39 37 30 33>
+]
+(195, 0) CLIENT -> SERVER: [ 
+<Buffer f1 01 8e a6 c8 9f aa ab fc cf ab fc 9d a6 dc 8c bd df 93 a1 ab fc d4 90 0a 02 30 39 37 30 33 44 61 72 6b 73 54 65 61 6d 39 37 64 39 39 69 2b>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer f1 01 01>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer f3 00>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 59 6f 75 20 61 72 65 20 63 6f 6e 6e 65 63 74 69 6e 67 20 74 6f 20 74 68 65 20 67 61 6d 65 20 66 6f 72 20 46 52 45 45 2e 00>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 50 6f 77 65 72 65 64 20 62 79 20 77 77 77 2e 44 61 72 6b 73 54 65 61 6d 2e 4e 45 54 00>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer f3 00 02 00 52 69 63 63 65 00 00 00 00 00 06 78 00 00 00 ab ff 33 33 3f 16 db 45 00 00 01 42 6c 75 65 43 6f 61 73 74 00 06 01 00 00 20 20 ff ff ff ff 00 ...>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer f3 03 52 69 63 63 65 00 00 00 00 00>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 26 fe 01 70 00>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 27 fe 10 48 03 0b>
+]
+(195, 1) CLIENT -> SERVER: [ 
+<Buffer 03 00 f9 6b d8 bb>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 00 57 65 6c 63 6f 6d 65 20 74 6f 20 52 65 6c 61 78 2d 4d 75 21 00>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 59 6f 75 20 68 61 76 65 20 61 20 71 75 65 73 74 20 69 6e 20 70 72 6f 67 72 65 73 73 2e 00>
+]
+(194, 0) SERVER -> CLIENT: [ 
+<Buffer 12 01 14 a0 7d 7f 02 ff ff ff ff ff 00 00 00 f8 00 00 00 00 55 6e 64 65 72 53 63 6f 72 65 7d 7f 33 00>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 18 01 66>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 27 ff 10 48 01 a1>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 18 05 66>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 10 7d 7d 55 66 55 50>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 10 14 dd 7b 82 50>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 27 ff 10 48 01 bd>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 10 7b 82 24 11 12>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 10 14 dd 7c 7e 20>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 27 ff 10 48 01 d9>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 10 7c 7e 21 20>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 10 14 dd 7d 7d 20>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 27 ff 10 48 01 f5>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer f3 30 00 00 00 00 00 00 00 00 00 09 09 00 04 08 24 00 00 00 00 00 00 00 00 00>
+]
+(195, 2) CLIENT -> SERVER: [ 
+<Buffer f1 02 00>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 18 06 66>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 59 6f 75 20 68 61 76 65 20 35 20 73 65 63 6f 6e 64 28 73 29 20 6c 65 66 74 20 62 65 66 6f 72 65 20 65 78 69 74 69 6e 67 20 74 68 65 20 67 61 6d 65 ...>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 27 ff 10 48 02 11>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 59 6f 75 20 68 61 76 65 20 34 20 73 65 63 6f 6e 64 28 73 29 20 6c 65 66 74 20 62 65 66 6f 72 65 20 65 78 69 74 69 6e 67 20 74 68 65 20 67 61 6d 65 ...>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 59 6f 75 20 68 61 76 65 20 33 20 73 65 63 6f 6e 64 28 73 29 20 6c 65 66 74 20 62 65 66 6f 72 65 20 65 78 69 74 69 6e 67 20 74 68 65 20 67 61 6d 65 ...>
+]
+(193, 0) SERVER -> CLIENT: [ 
+<Buffer 0d 01 59 6f 75 20 68 61 76 65 20 32 20 73 65 63 6f 6e 64 28 73 29 20 6c 65 66 74 20 62 65 66 6f 72 65 20 65 78 69 74 69 6e 67 20 74 68 65 20 67 61 6d 65 ...>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 18 05 66>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 18 04 66>
+]
+(193, 0) CLIENT -> SERVER: [ 
+<Buffer 18 00 66>
+]
